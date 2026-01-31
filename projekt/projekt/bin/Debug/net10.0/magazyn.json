@@ -1,0 +1,65 @@
+[
+  {
+    "$type": "napoj",
+    "PojemnoscMl": 500,
+    "Nazwa": "Cola",
+    "Cena": 4.00,
+    "Ilosc": 9
+  },
+  {
+    "$type": "napoj",
+    "PojemnoscMl": 500,
+    "Nazwa": "Woda",
+    "Cena": 2.00,
+    "Ilosc": 20
+  },
+  {
+    "$type": "napoj",
+    "PojemnoscMl": 330,
+    "Nazwa": "Sok Pomaranczowy",
+    "Cena": 3.50,
+    "Ilosc": 14
+  },
+  {
+    "$type": "napoj",
+    "PojemnoscMl": 250,
+    "Nazwa": "Energetyk",
+    "Cena": 6.00,
+    "Ilosc": 8
+  },
+  {
+    "$type": "napoj",
+    "PojemnoscMl": 500,
+    "Nazwa": "Ice Tea",
+    "Cena": 4.20,
+    "Ilosc": 12
+  },
+  {
+    "$type": "przekaska",
+    "CzySlona": true,
+    "Nazwa": "Chipsy",
+    "Cena": 6.50,
+    "Ilosc": 5
+  },
+  {
+    "$type": "przekaska",
+    "CzySlona": false,
+    "Nazwa": "Baton",
+    "Cena": 3.00,
+    "Ilosc": 15
+  },
+  {
+    "$type": "przekaska",
+    "CzySlona": true,
+    "Nazwa": "Paluszki",
+    "Cena": 2.50,
+    "Ilosc": 10
+  },
+  {
+    "$type": "przekaska",
+    "CzySlona": false,
+    "Nazwa": "Czekolada",
+    "Cena": 5.00,
+    "Ilosc": 7
+  }
+]
